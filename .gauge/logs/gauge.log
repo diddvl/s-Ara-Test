@@ -1,0 +1,24 @@
+08:42:55.014 Gauge Install ID: e8c5fa80-2d41-4b73-b3f1-97cb382ae4c5
+08:42:55.094 Gathering metadata for python
+08:42:55.820 Downloading gauge-python-0.2.5.zip
+08:42:56.691 Installing plugin python 0.2.5
+08:42:56.693 Successfully installed plugin 'python'.
+08:46:28.759 Gauge Install ID: e8c5fa80-2d41-4b73-b3f1-97cb382ae4c5
+08:53:33.539 Gauge Install ID: e8c5fa80-2d41-4b73-b3f1-97cb382ae4c5
+08:53:33.539 Failed to find project directory
+09:07:07.263 Gauge Install ID: e8c5fa80-2d41-4b73-b3f1-97cb382ae4c5
+09:07:07.263 Failed to find project directory
+09:15:07.891 Gauge Install ID: e8c5fa80-2d41-4b73-b3f1-97cb382ae4c5
+09:15:07.891 Unable to set working directory : mkdir /var/lib/go-agent/pipelines/didPipeline/ /root/specs run specs: no such file or directory
+09:17:36.174 Gauge Install ID: e8c5fa80-2d41-4b73-b3f1-97cb382ae4c5
+09:17:36.174 Unable to set working directory : mkdir /var/lib/go-agent/pipelines/didPipeline/ /root run specs: no such file or directory
+09:20:26.671 Gauge Install ID: e8c5fa80-2d41-4b73-b3f1-97cb382ae4c5
+09:20:26.672 Unable to set working directory : chdir /root: permission denied
+09:20:28.598 Gauge Install ID: e8c5fa80-2d41-4b73-b3f1-97cb382ae4c5
+09:20:28.598 Unable to set working directory : chdir /root: permission denied
+09:21:43.351 Gauge Install ID: e8c5fa80-2d41-4b73-b3f1-97cb382ae4c5
+09:21:43.351 Failed to find project directory
+09:26:47.291 Gauge Install ID: e8c5fa80-2d41-4b73-b3f1-97cb382ae4c5
+09:26:47.292 Unable to set working directory : mkdir /var/lib/go-agent/pipelines/didPipeline/ /root run specs: no such file or directory
+09:30:26.976 Gauge Install ID: e8c5fa80-2d41-4b73-b3f1-97cb382ae4c5
+09:30:26.976 Unable to set working directory : mkdir /var/lib/go-agent/pipelines/didPipeline/ /var/go run specs: no such file or directory
